@@ -9,8 +9,8 @@
 
 body {
   font-family: 'Poppins', sans-serif;
-  background: #fffaf5;
-  color: #292929;
+  background: #9c6126;
+  color: #a01313;
 }
 
 a {
@@ -28,7 +28,7 @@ button {
 }
 
 .navbar {
-  background: white;
+  background: rgb(102, 42, 42);
   padding: 18px 6%;
   display: flex;
   justify-content: space-between;
